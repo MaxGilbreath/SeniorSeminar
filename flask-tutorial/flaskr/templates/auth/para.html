@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block header %}
+<h1>{% block title %}Set Parameters{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+<form method="post">
+    <label for="cpu">CPU Percent</label>
+    <input name="cpu" id="cpu">
+
+    <label for="ram">Ram Percent</label>
+    <input name="ram" id="ram">
+
+    <label for="disk">Disk Percent</label>
+    <input name="disk" id="disk">
+
+    <label for="time">Time (Seconds)</label>
+    <input name="time" id="time">
+
+    <label for="kw">Kill Process or Give Warning?</label>
+
+    <select name="kw" id="kw">
+        <option value="k">Kill</option>
+        <option value="w">Warning</option>
+    </select>
+
+    <input type="submit" value="Set">
+</form>
+{% endblock %}

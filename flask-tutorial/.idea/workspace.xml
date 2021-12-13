@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63cae080-59d5-4e91-895b-9d33eaa278ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21foAw8Hgc7GdS5XeX4PnAcJ9Xu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63cae080-59d5-4e91-895b-9d33eaa278ff" name="Default Changelist" comment="" />
+      <created>1638341362139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638341362139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="566" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1638563757615">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="566" y="236" key="#com.intellij.fileTypes.FileTypeChooser/78.0.1458.864@78.0.1458.864" timestamp="1638563757615" />
+    <state x="588" y="188" key="FileChooserDialogImpl" timestamp="1638883351741">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="588" y="188" key="FileChooserDialogImpl/1998.514.1458.864/78.0.1458.864@78.0.1458.864" timestamp="1638883351741" />
+    <state x="316" y="16" key="SettingsEditor" timestamp="1638341509775">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="316" y="16" key="SettingsEditor/78.0.1458.864@78.0.1458.864" timestamp="1638341509775" />
+    <state x="504" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1639420982715">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="504" y="258" key="com.intellij.ide.util.TipDialog/1998.514.1458.864/78.0.1458.864@78.0.1458.864" timestamp="1639420982715" />
+    <state x="0" y="286" key="com.intellij.ide.util.TipDialog/78.0.1458.864@78.0.1458.864" timestamp="1638562788558" />
+    <state x="445" y="48" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1638870574540">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state x="445" y="48" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1998.514.1458.864/78.0.1458.864@78.0.1458.864" timestamp="1638870574539" />
+  </component>
+</project>

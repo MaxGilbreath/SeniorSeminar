@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+
+{% block header %}
+<h1>{% block title %}Processes{% endblock %}</h1>
+{% if g.user %}
+<div class="float-container">
+    <div class="float-child">
+        <form method="POST" id="form1">
+            <label for="pname">Process name:</label> <input type="text" id="pname" name="pname">
+        </form>
+    </div>
+    <div class="float-child">
+        <button type="submit" form="form1" name="submit_button" value="Kill Process">Kill Process</button>
+    </div>
+</div>
+{% endif %}
+{% endblock %}
+
+{% block content %}
+{% for post in posts %}
+<article class="post">
+    <header>
+        <div>
+            <h1>{{ post }}</h1>
+        </div>
+    </header>
+</article>
+
+<article class="vm">
+    <header>
+        <div>
+            <h1>{{ vm }} {{ disk }} {{ cpu }}</h1>
+        </div>
+    </header>
+</article>
+
+{% if not loop.last %}
+<hr>
+{% endif %}
+{% endfor %}
+{% endblock %}
+
+
